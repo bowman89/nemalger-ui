@@ -2,7 +2,7 @@ import GradientButton from "./Buttons/GradientButton";
 
 export default function Hero() {
     return (
-        <section className="w-full bg-[#eef1f7] py-20">
+        <section className="w-full bg-[#F2F4FA] py-20">
             <div className="w-full max-w-[1920px] mx-auto px-6 flex justify-between items-center min-h-[540px]">
 
                 {/* VENSTRE SIDE */}
